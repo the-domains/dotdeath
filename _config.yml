@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8946443966097263
+  lightness: 0.6676421617549223
+  rhythmicContrast: 0.7525510124716689
+  saturation: 0.372946772314255
+cta: {}
+layout_spectrum: 0.9528227376939512
+name: DotDEATH
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.16914742475628608
